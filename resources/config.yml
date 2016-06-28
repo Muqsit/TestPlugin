@@ -1,0 +1,12 @@
+---
+items_chest:
+- "tnt"
+- "259"
+- "17:1"
+
+#the maximum of the items that the plugin will put inside the chest
+max_chest_item: 4
+
+#turn on/off the plugin
+status: "on"
+...
