@@ -1,0 +1,4 @@
+name: Envoy
+author: Muqsit
+main: Envoy\Main
+api: [1.13.1, 2.0.0]
